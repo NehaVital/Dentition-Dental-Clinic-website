@@ -5,8 +5,7 @@ This is a web based application developed for Dental Healtcare related based web
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://nice-water-0f91e5d10.3.azurestaticapps.net/
-**Project demo video Link** -   
+**Project Link** - https://nice-water-0f91e5d10.3.azurestaticapps.net/  
 
 
 ## Azure technologies used for Project
