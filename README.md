@@ -7,6 +7,8 @@ This is a web based application developed for Dental Healtcare related based web
 
 **Project Link** - https://nice-water-0f91e5d10.3.azurestaticapps.net/  
 
+**Project Demo Link** - https://www.youtube.com/watch?v=QZoxisFtVSs
+
 
 ## Azure technologies used for Project
 
