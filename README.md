@@ -34,22 +34,26 @@ This is a web based application developed for Dental Healtcare related based web
 
 ### About Us -
 
+![About](https://github.com/NehaVital/Dentition-Dental-Clinic-website/assets/112386508/7ac8ab51-6384-481f-ba8d-ba50f1a4282a)
 
 
 
 
 ### Services -
 
+![Service](https://github.com/NehaVital/Dentition-Dental-Clinic-website/assets/112386508/9907faed-7135-4869-b7c5-d4b0e5f6e60b)
 
 
 
-### Contact us -
+### Contact -
 
+![Contact](https://github.com/NehaVital/Dentition-Dental-Clinic-website/assets/112386508/47175fe3-7946-4860-b8f6-013c0789cf9d)
 
 
 
 ### health bot
 
+![Bot](https://github.com/NehaVital/Dentition-Dental-Clinic-website/assets/112386508/d549aeae-0f36-4e7c-b17b-3df4a5177af8)
 
 
 
